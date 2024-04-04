@@ -1,6 +1,6 @@
 # Chest_x_ray
 Image classification models
-Tensorflow-exploration
+Tensorflow-exploration and
 Pytorch-Resnet_effiecientnet
 
 
