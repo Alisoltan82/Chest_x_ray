@@ -5,4 +5,4 @@ Pytorch-Resnet_effiecientnet
 
 
 ### Gradcam showing visual logic of a true positive pneumonia prediction
-![image](img/x_ray_feat (2).png)
+![image](https://github.com/Alisoltan82/Chest_x_ray/blob/main/img/x_ray_feat%20(2).png)
